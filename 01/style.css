@@ -1,0 +1,17 @@
+*{margin:0;padding:0;box-sizing:border-box;}
+
+html {
+    height: 100vh;
+}
+
+body {
+    display: grid;
+    place-items: center;
+    height: 100%;
+    background-color: pink;
+}
+
+canvas {
+    display: block;
+    box-shadow: 0 .75rem 1.5rem -.75rem #888;
+}
